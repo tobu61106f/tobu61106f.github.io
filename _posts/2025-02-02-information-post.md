@@ -8,8 +8,8 @@ tags:
   - coding
 ---
 
-This is the second time I've set up an ACCADEMIC PAGE on GitHub, the first being my first summer as an undergrad and then deleting it after less than three months of sticking with it. I'm only just getting familiar with front-end deployment and coding under the Jekelly framework, so let's see how long I can get familiar and stick with it.
+This is the second time I've set up an ACCADEMIC PAGE on GitHub, the first being my first summer as an undergrad and then deleting it after less than three months of sticking with it. I'm only just getting familiar with front-end deployment and coding under the Jekelly framework so let's see how long I could get stick with it for this time.
 
-By the way, I took another trip to Japan last month, I went to Osaka, Tokyo, and Shikoku, and it was nice to ride the breadman (アンパンマン）limited express train after two years on Shikoku Island. I really miss the diesel smell of the 2700 series DMU gas powered bike, it brings me back to my youngest childhood memory for the first smell. 
+By the way, just took another trip to Japan last month, I went to Osaka, Tokyo, and Shikoku, it was nice to ride the breadman (アンパンマン）limited express train again for not being there two years... I really miss the diesel smell of the 2700 series DMU powered gas, it just brings me back to my youngest childhood memory for my hometown. 
 
-<img src='/images/Nanpu_12_20250104.png'>
+<img src='/images/Nanpu_12_20250104.jpg'>

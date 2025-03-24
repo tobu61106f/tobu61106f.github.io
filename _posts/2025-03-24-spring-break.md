@@ -1,5 +1,5 @@
 ---
-title: '2025 03.24 春假'
+title: '20250324 春假'
 date: 2025-03-24
 permalink: /posts/2025/03/spring-break-1/
 tags:

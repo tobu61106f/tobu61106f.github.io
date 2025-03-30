@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. SUNY University at Buffalo, Buffalo, NY 2024
+* B.S. SUNY University at Buffalo, Buffalo, NY Spring 2025 (Expected)
 
 Work experience
 ======

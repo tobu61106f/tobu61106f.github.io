@@ -9,4 +9,4 @@ redirect_from:
 
 About
 ======
-Currently I'm a master student at [University at Buffalo, School of Engineering and Applied Science, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html). Previously I obtainted my Bachelor of Science degree from University at Buffalo on June 2025. 
+Currently I'm a master student at [University at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html). Previously I obtainted my Bachelor of Science degree from University at Buffalo on June 2025. 

@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Update your damn academic pages'
+date: 2026-1-15
+permalink: /posts/2026/01/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - venting
+  # - category1
+  # - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+你只需要保留 '_pages/about.md' 和 '_pages/cv.md' , '_config.yml'，然后整个库炸了重新fork新版本的 'academicpages.github.io'就行。

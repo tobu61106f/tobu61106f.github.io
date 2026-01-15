@@ -12,4 +12,6 @@ Currently I'm a master student at [University at Buffalo, School of Engineering 
 Habits
 ======
 **Animes, Comics, Games**: **蓮ノ空女学院スクールアイドルクラブ**, **765 Production**, **Morfonica**... and **more**
+
+
 **乗り物**: **録り**, **撮り**

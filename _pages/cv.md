@@ -14,23 +14,8 @@ Education
 * M.S. in Electrical Engineering, University at Buffalo, 2027 (expected)
 * B.S. in Electrical Engineering, University at Buffalo, 2025
 
-# Work experience
-# ======
 
-# Skills
-# ======
 
-# Publications
-# ======
+If file does not load below, <a href="{{ site.baseurl }}/files/resume.pdf">try downloading (pdf).</a>
 
-  
-# Talks
-# ======
-
-  
-# Teaching
-# ======
-
-# Service and leadership
-# ======
-
+<embed src="{{ site.baseurl }}/files/resume.pdf" width="650" height="800" type='application/pdf'>

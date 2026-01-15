@@ -14,23 +14,23 @@ Education
 * M.S. in Electrical Engineering, University at Buffalo, 2027 (expected)
 * B.S. in Electrical Engineering, University at Buffalo, 2025
 
-Work experience
-======
+# Work experience
+# ======
 
-Skills
-======
+# Skills
+# ======
 
-Publications
-======
-
-  
-Talks
-======
+# Publications
+# ======
 
   
-Teaching
-======
+# Talks
+# ======
 
-Service and leadership
-======
+  
+# Teaching
+# ======
+
+# Service and leadership
+# ======
 

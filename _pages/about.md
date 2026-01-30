@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 Hello there, I'm Zhiyun! 
-I'm a Master of Science Student at [University at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html). Previously I obtainted my Bachelor of Science degree from University at Buffalo on June 2025. I'm working at ASIC/FPGA Accelerator Computing and Optimization of Powering Network.
+
+I'm a Master of Science Student at [University at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html). Previously I obtainted my Bachelor of Science degree from University at Buffalo on June 2025. 
+
+I'm work at ASIC/FPGA Accelerator Computing and Optimization of Powering Network.
 
 Habits
 ======

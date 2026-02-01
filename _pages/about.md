@@ -15,7 +15,15 @@ I'm in work on ASIC/FPGA Accelerator Computing and Optimization of Powering Netw
 
 Habits
 ======
-**Animes, Comics, Games**: **蓮ノ空女学院スクールアイドルクラブ**, **765 Production**, **Morfonica**... and **more**
+**Animes, Comics, Games**
+
+**蓮ノ空女学院スクールアイドルクラブ**: 村野さやか (CV: **野中ここな**)、日野下花帆 (CV: **楡井希実**)
+
+**765 Production**
+
+**BanGDream! Morfonica**：二葉つくし (CV：mika)
+
+and **more** ...
 
 
 **乗り物**: **録り**, **撮り**

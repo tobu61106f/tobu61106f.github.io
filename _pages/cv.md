@@ -16,6 +16,6 @@ Education
 
 
 
-If file does not load below, <a href="{{ site.baseurl }}/files/resume.pdf">try downloading (pdf).</a>
+~~If file does not load below, <a href="{{ site.baseurl }}/files/resume.pdf">try downloading (pdf).</a>(Updating)~~
 
-<embed src="{{ site.baseurl }}/files/resume.pdf" width="650" height="800" type='application/pdf'>
+#<embed src="{{ site.baseurl }}/files/(filename).pdf" width="650" height="800" type='application/pdf'>

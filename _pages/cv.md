@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical Engineering, University at Buffalo, 2025-2027 (expected)
-* B.S. in Electrical Engineering, University at Buffalo, 2020-2025
+* M.S. in Electrical Engineering, University at Buffalo, Aug, 2025-June, 2027 (expected)
+* B.S. in Electrical Engineering, University at Buffalo, Aug, 2020-June, 2025
 
 
 

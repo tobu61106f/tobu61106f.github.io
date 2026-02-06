@@ -11,7 +11,7 @@ Hello there, I'm Zhiyun!
 
 I'm a Master (of Science) Student at [The **S**tate **U**niversity of **N**ew **Y**ork at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html). Previously I obtainted my *Bachelor of Science, Electrical Engineering* degree from University at Buffalo on June 2025. 
 
-I'm in work on ASIC/FPGA Accelerator Computing and Optimization of Powering Network.
+I'm in work on ASIC/FPGA Accelerator Computing and Optimization of Powering Network (Next Generation Smart Grids).
 
 Habits
 ======

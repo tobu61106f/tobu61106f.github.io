@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there, I'm Zhiyun! 
 
-I'm a Master (of Science) Student at [The **S**tate **U**niversity of **N**ew **Y**ork at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html), and I have being moved from Shanghai, China to NY, United States for over 10 years (2015 to Present, I'm a permanent resident, planning to naturalized to United States later that will depends on political climates. I leaved this part because there're always a cluster of people asking me *where I am from* or *Do you like U.S.** then I have to explain my past situation **blahblahblah...**). Previously I received my *Bachelor of Science, Electrical Engineering* degree from University at Buffalo on June 2025. 
+I'm a Master (of Science) Student at [The **S**tate **U**niversity of **N**ew **Y**ork at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html), and I have being moved from Shanghai, China to NY, United States for over 10 years (2015 to Present, I'm a permanent resident, planning to naturalized to United States later that will depends on political climates. I leaved this part on this page because there used to be a cluster of people asking me *where I am from* or *Do you like U.S.* then I have to explain my past situation **blahblahblah...**). Previously I received my *Bachelor of Science, Electrical Engineering* degree from University at Buffalo on June 2025. 
 
 I'm currently focusing on Hardware Arch for ASIC/FPGA Accelerator Computing and Optimization of Powering Network (Next Generation Smart Grids).
 

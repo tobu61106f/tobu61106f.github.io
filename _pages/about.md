@@ -15,6 +15,9 @@ I'm currently focusing on Hardware Arch for ASIC/FPGA Accelerator Computing and 
 
 **I am also seeking a Summer/Fall 2026 internship and Ph.D positions starting in 2027, focusing on AI research and applications. Feel free to reach out.**
 
+
+**Also, I'm taking any anonymous message feedback about anything!** if you interested please be [filled up](https://forms.office.com/r/nxv9CWUS6p), you can use English, Chinese or Japanese.
+
 Miscs
 ======
 **Animes, Comics, Games**

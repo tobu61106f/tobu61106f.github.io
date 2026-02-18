@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhiyun Yu's academic page"
+title                    : "Zhiyun Yu"
 title_separator          : "-"
 name                     : &name "Zhiyun Yu"
 description              : &description "personal description"
@@ -65,7 +65,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "FutabaTukushi"
   tumblr           : # Username
   twitter          : "Hamanansu"
   vine             : # Username

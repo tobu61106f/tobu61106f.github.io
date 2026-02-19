@@ -9,7 +9,6 @@ redirect_from:
 
 # Scientific Machine Learning/Machine Learning for Science (AI4Science)
 ## Convex Importance-Weight Optimization for Diffusion Model Training Timesteps
----
 **Convex Optimization Course Project**, Author: *Ziqing Chang*, *Zhiyun Yu*
 
 The Problem: 
@@ -24,11 +23,8 @@ F_{\lambda}(w)
 + \lambda \sum_{t=1}^{T} w_t^2 \sigma_t^2
 ```
 
-
-
 We tranning the Baseline Model to collect empirical data $(𝑙_t)$ ̂𝑎𝑛𝑑 $𝜎_𝑡^2$ on the MNIST Set, later we will use KKT conditions to find the closed-form solution on primal model for $𝑤^∗$. In final stage we evaluated and compared Model_Baseline and Model_Optimal, the KKT-derived $w*$ minimizes the surrogate objective $Fλ(w)$, and in practice this translates into better optimization behavior during training.
 
 # IC Design
 
----
 

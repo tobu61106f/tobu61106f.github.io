@@ -9,7 +9,7 @@ redirect_from:
 
 # Scientific Machine Learning/Machine Learning for Science (AI4Science)
 ## Convex Importance-Weight Optimization for Diffusion Model Training Timesteps
-**Convex Optimization Course Project, Author: *Ziqing Chang*, *Zhiyun Yu*
+**Convex Optimization Course Project**, Author: *Ziqing Chang*, *Zhiyun Yu*
 The Problem: 
 Standard DDPM training uses "uniform" weights 𝑤_𝑡=1\/𝑇 or ”cosine" weights , which ignores that different timesteps 𝑡 have different loss magnitudes and variances.
 Our Method: 

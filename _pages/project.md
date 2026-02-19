@@ -16,11 +16,16 @@ Standard DDPM training uses "uniform" weights 𝑤_𝑡=1\/𝑇 or ”cosine" we
 
 Our Method: 
 The Convex Formulation (P) We find the optimal weights 𝑤^∗ by solving a strictly convex quadratic program (QP): 
+
+
 \[
-\min_{w \in \Delta^T} F(w)
+F_{\lambda}(w)
 = \sum_{t=1}^{T} w_t \hat{l}_t
 + \lambda \sum_{t=1}^{T} w_t^2 \sigma_t^2
 \]
+
+
+
 We tranning the Baseline Model to collect empirical data (𝑙_t ) ̂𝑎𝑛𝑑 𝜎_𝑡^2 on the MNIST Set, later we will use KKT conditions to find the closed-form solution on primal model for 𝑤^∗. In final stage we evaluated and compared Model_Baseline and Model_Optimal, the KKT-derived w* minimizes the surrogate objective Fλ(w), and in practice this translates into better optimization behavior during training.
 
 

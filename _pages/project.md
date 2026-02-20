@@ -9,7 +9,11 @@ redirect_from:
 
 # Scientific Machine Learning/Machine Learning for Science (AI4Science)
 ## Convex Importance-Weight Optimization for Diffusion Model Training Timesteps
-**Convex Optimization Course Project**, Author: *Ziqing Chang*, *Zhiyun Yu*, *Fall 2025*
+
+[**EE441/541: Convex Optimization with Applications in Communication and Machine Learning**](https://mingshihomepage.com/studentsandteaching.html)
+Department of Electrical Engineering, University at Buffalo, Fall 2025.
+
+Author: *Ziqing Chang*, *Zhiyun Yu*
 
 **The Problem:** Standard DDPM training typically employs uniform weights \\(w_t = 1/T\\) or cosine weights. However, these approaches fail to account for the fact that different timesteps \\(t\\) exhibit varying loss magnitudes and variances. To address this, we introduce a convex formulation to find the optimal weights, \\(w^*\\), by solving a strictly convex quadratic program (QP):
 

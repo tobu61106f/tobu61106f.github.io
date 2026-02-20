@@ -11,6 +11,7 @@ redirect_from:
 ## Convex Importance-Weight Optimization for Diffusion Model Training Timesteps
 
 [**EE441/541: Convex Optimization with Applications in Communication and Machine Learning**](https://mingshihomepage.com/studentsandteaching.html)
+
 Department of Electrical Engineering, University at Buffalo, Fall 2025.
 
 Author: *Ziqing Chang*, *Zhiyun Yu*

@@ -22,7 +22,8 @@ $$
 F_{\lambda}(w) = \sum_{t=1}^{T} w_t \hat{l}_t + \lambda \sum_{t=1}^{T} w_t^2 \sigma_t^2
 $$
 
-First, we train a baseline model on the MNIST dataset to collect empirical data for the expected loss $\hat{l}t$ and variance $sigma_t^2$ at each timestep. Next, we apply the Karush-Kuhn-Tucker (KKT) conditions to derive a closed-form solution for $w^*$ within the primal model. We evaluate and compare the baseline model against our optimized model. We show that the KKT-derived $w^*$ effectively minimizes the surrogate objective $F{\lambda}(w)$, which in practice translates into improved optimization behavior during training.
+
+First, we train a baseline model on the MNIST dataset to collect empirical data for the expected loss $\hat{l}t$ and variance sigma_t^2 at each timestep. Next, we apply the Karush-Kuhn-Tucker (KKT) conditions to derive a closed-form solution for \\(w^*\\) within the primal model. We evaluate and compare the baseline model against our optimized model. We show that the KKT-derived $w^*$ effectively minimizes the surrogate objective $F{\lambda}(w)$, which in practice translates into improved optimization behavior during training.
 
 # IC Design
 

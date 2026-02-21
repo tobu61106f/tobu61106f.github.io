@@ -26,6 +26,8 @@ Miscs
 
 **765 Production**
 
+**学園アイドルマスター**: 葛城リーリヤ (Katsuragi Riiriya, CV: **花岩香奈**)
+
 **BanGDream! Morfonica**：二葉つくし (CV：mika)
 
 and **more** ...

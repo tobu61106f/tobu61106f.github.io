@@ -40,7 +40,7 @@ tags:
 
 其实当天的topics挺无聊的，先是介绍了50-60年代的民主转折，金大中，金泳三，是如何在互联网时期形成k-pop爱好者群体以女性为主，blahblahblah，后冷战，blahblah，然后再是24年年底lotteria军变（笑）的详细过程，当中提到了Twitter Feminisim（略してツイフェミー）
 
-> Young-Young feminisits of feminism rebut (H. Cho 2024), K-pop fandom culture， the merge of K-pop fandom and social justice activism: "Minju paendom yeondae" in 2016-2017 (J. Kim 2021)
+> Young-Young feminisits of feminism rebut (H. Cho 2024), K-pop fandom culture, the merge of K-pop fandom and social justice activism: "Minju paendom yeondae" in 2016-2017 (J. Kim 2021)
 
 
 ### Q&A环节
@@ -86,7 +86,7 @@ tags:
 ## 友评
 友的背景是首尔国立大学学士 & 北京大学交换生.
 
-（光谱概括起来过于复杂，所以简略：向我表达过“尹总统和日本、美国关系都搞得不错，是因为当时是拜登和岸田主导的，尹这个人自身很危险。”这种观点）
+（光谱概括起来过于复杂，所以简略：在23年年底就向我表达过“尹总统和日本、美国关系都搞得不错，是因为当时是拜登和岸田主导的，尹这个人自身很危险。” 这种观点）
 
 > ：其实你这个Twifemi的戳的不错
 > 

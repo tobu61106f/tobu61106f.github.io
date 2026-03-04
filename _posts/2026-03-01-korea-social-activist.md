@@ -38,11 +38,14 @@ tags:
 
 期间有邀请现实中的朋友去，但一个都没有答应！
 
-这一个月里期待着VGC版的FRLG，注视Pokemon Day，申请陶瓷中度过的，所以这一个月里是比较焦急地等到这一天的到来。
+这一个月里期待着VGC版的FRLG，注视Pokemon Day，以及为下一年申请Ph.D陶瓷中度过的，所以这一个月的状态是比较焦急并很渴望地等到这一天的到来。
 
 ## 当日
 
-其实当天的topics挺无聊的，先是介绍了50-60年代的民主转折，金大中，金泳三，是如何在互联网时期形成k-pop爱好者群体以女性为主，blahblahblah，后冷战，blahblah，然后再是24年年底lotteria军变（笑）的详细过程，当中提到了Twitter Feminisim（略してツイフェミー）
+当天的topics很无聊，先是介绍了50-60年代的民主转折，自然避免不了谈及朝战后的李承晚舞弊，朴正熙军变，以及后来的金大中，金泳三，后97年亚洲金融风暴后是如何在韩国互联网时期形成k-pop爱好者群体以女性为主，blahblahblah，后冷战，国土防御需求，blahblah，
+抛开这些因素不谈，最主要的是80-90年代的市民运动，以及世越号轮船沉没，李老师提了一句："尹锡悦执政时期受到的挑战，和韩国一直以来的社会抗争分不开。"
+
+然后再是24年年底lotteria军变（笑）的详细过程，当中提到了Twitter Feminisim（略してツイフェミー）。
 
 > Young-Young feminisits of feminism rebut (H. Cho 2024), K-pop fandom culture, the merge of K-pop fandom and social justice activism: "Minju paendom yeondae" in 2016-2017 (J. Kim 2021)
 

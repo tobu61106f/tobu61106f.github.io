@@ -10,7 +10,7 @@ tags:
   - East Asia
   - South Korea
 ---
-<img src = 'images/photo_2026_03-03_19-05-17.jpg'>
+<img src = '/images/photo_2026_03-03_19-05-17.jpg'>
 
 
 *Keywords: 劳工权，韩国政治，日本政治，女权，左翼，平权*

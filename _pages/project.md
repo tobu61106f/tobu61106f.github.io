@@ -7,8 +7,7 @@ redirect_from:
   - /research
 ---
 
-# Scientific Machine Learning/Machine Learning for Science (AI4Science)
-## Convex Importance-Weight Optimization for Diffusion Model Training Timesteps
+# Machine Learning
 
 [**EE441/541: Convex Optimization with Applications in Communication and Machine Learning**](https://mingshihomepage.com/studentsandteaching.html)
 
@@ -28,3 +27,6 @@ First, we train a baseline model on the MNIST dataset to collect empirical data 
 # IC Design
 
 
+
+
+# Power Systems Optimization

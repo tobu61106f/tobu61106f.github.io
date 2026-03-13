@@ -19,7 +19,8 @@ Author: *Ziqing Chang*, *Zhiyun Yu*
 
 Me and my Partner Ziqing remodified this specific Diffusion Model based on two NeurIPS paper:
 
-[*Denoising Diffusion Probabilistic Models, Jonathan Ho and Ajay Jain and Pieter Abbeel, NeurIPS2020*](https://hojonathanho.github.io/diffusion/)
+[*Denoising Diffusion Probabilistic Models, Jonathan Ho, Ajay Jain and Pieter Abbeel, NeurIPS2020*](https://hojonathanho.github.io/diffusion/)
+
 [*Generative modeling by Estimating Gradients of the Data Distribution, Yang Song, Stefano Ermon, NeurIPS2019*](https://arxiv.org/abs/1907.05600)
 
 

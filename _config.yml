@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhiyun Yu"
+title                    : "Zhiyun (Alex) Yu"
 title_separator          : "-"
 name                     : &name "Zhiyun Yu"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Kaho_400x400.jpg"
-  name             : "Zhiyun Yu"
+  name             : "Zhiyun (Alex) Yu"
   pronouns         : "He/His" 
   bio              : "Numerical methods for partial differential equations (PDEs), SmartGrid, Convex Optimization, Analog IC Design, Hardware Arch on Computing Acceleration"
   location         : "New York"

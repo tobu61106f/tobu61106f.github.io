@@ -25,8 +25,7 @@ I'm currently focusing on Hardware Arch for ASIC/FPGA Accelerator Computing and 
 Topics I'm currently working on: 
 - Sparse Power Network Optimazation
 - ASIC/FPGA System Design
-- Markov decision processes (MDPs)
-- Reinforcement Learning
+- Statistical Learning Method
 
 **NEWS**
 =====

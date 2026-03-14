@@ -19,7 +19,7 @@ I'm a Master (of Science) Student at [The **S**tate **U**niversity of **N**ew **
 **Also, I'm taking any anonymous message feedback about anything!** if you interested please be [filled up](https://forms.office.com/r/nxv9CWUS6p), you can use English, Chinese or Japanese.
 
 **Research Interest**
-
+=====
 I'm currently focusing on Hardware Arch for ASIC/FPGA Accelerator Computing and Optimization of Powering Network (Next Generation Smart Grids).
 
 Topics I'm currently working on: 
@@ -29,7 +29,8 @@ Topics I'm currently working on:
 - Reinforcement Learning
 
 **NEWS**
-Sep, 2025: I'm attending [JUNCTION Workshop](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
+=====
+**Sep, 2025:** I'm attending [JUNCTION Workshop](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
 
 
 

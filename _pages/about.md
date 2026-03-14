@@ -29,7 +29,7 @@ Topics I'm currently working on:
 
 **NEWS**
 =====
-**Sep, 2025:** I'm attending [JUNCTION Workshop](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
+**Sep, 2025:** I'm attending [JUNCTION: Japan-US Network for Clean Energy Technologies Involving Oriented Nanotubes 2025](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
 
 
 

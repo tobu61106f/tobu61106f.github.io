@@ -30,25 +30,3 @@ Topics I'm currently working on:
 **NEWS**
 =====
 **Sep, 2025:** I'm attending [JUNCTION: Japan-US Network for Clean Energy Technologies Involving Oriented Nanotubes 2025](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
-
-
-
-
-**Miscs**
-======
-**Animes, Comics, Games**
-
-**蓮ノ空女学院スクールアイドルクラブ**: 村野さやか (CV: **野中ここな**)、日野下花帆 (CV: **楡井希実**)
-
-**765 Production**
-
-**学園アイドルマスター**: 葛城リーリヤ (Katsuragi Riiriya, CV: **花岩香奈**)
-
-**BanGDream! Morfonica**：二葉つくし (CV：mika)
-
-and **more** ...
-
-
-**乗り物**: **録り**, **撮り**
-
-I also upload photographies on [flickr](https://flickr.com/people/kasumi_8972m/). 

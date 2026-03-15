@@ -1,6 +1,6 @@
 ---
 title: '2026.03.15 第一次用cloudflare page'
-date: 2026-03-01
+date: 2026-03-15
 permalink: /posts/2026/03/blog-post-2/
 tags:
   - TypeScript

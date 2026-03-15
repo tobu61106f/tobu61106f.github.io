@@ -7,6 +7,8 @@ tags:
   - Next.Js
   - CloudFlare
   - Vercel
+  - 心情
+  - 随笔
 ---
 
 前几天冲浪看到好友用 [reactiveneko](https://github.com/amphineko/reactiveneko) 搭了个主页就很馋那个模板，周六的时候试了试自己亲自编译，亲自部署；
@@ -16,5 +18,7 @@ tags:
 写上了青春期以来一直爱的爱好，自己视为构成自己一部分的要素，然后给外人看。`who.igbt.workers.dev`
 
 仓库在这里，喜欢的话可以自己fork: `https://github.com/tobu61106f/reactiveneko`.
+
+后续又试了试在Vercel上部署Spotify Badge的服务器再拿来在 `README.md` 上装比，那个项目很久没有维护了所以失败了（）
 
 后续：想买个域名再用githubpages去弄到那个domain上。。。而且暂时还不知道怎么改背景？真的好希望有人能坐在我旁边看我操纵 `.git`教我。

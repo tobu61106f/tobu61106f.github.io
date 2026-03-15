@@ -28,7 +28,7 @@ author:
   bio              : "Numerical methods for partial differential equations (PDEs), SmartGrid, Convex Optimization, Analog IC Design, Hardware Arch on Computing Acceleration"
   location         : "Buffalo, NY"
   employer         : "University at Buffalo"
-  uri              : # URL
+  uri              : https://who.igbt.workers.dev/
   email            : "zhiyunyu@buffalo.edu" 
 
   # Academic websites

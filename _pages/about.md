@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Whoami**
+Whoami
 =====
 Hello there, I'm Zhiyun, you can call me **Alex**! 
 
@@ -18,7 +18,7 @@ I'm a Master (of Science) Student at [The **S**tate **U**niversity of **N**ew **
 
 **Also, I'm taking any anonymous message feedback about anything!** if you interested please be [filled up](https://forms.office.com/r/nxv9CWUS6p), you can use English, Chinese or Japanese.
 
-**Research Interest**
+Research Interest
 =====
 I'm currently focusing on Hardware Arch for ASIC/FPGA Accelerator Computing and Optimization of Powering Network (Next Generation Smart Grids).
 
@@ -27,6 +27,7 @@ Topics I'm currently working on:
 - ASIC/FPGA System Design
 - Statistical Learning Method
 
-**NEWS**
+NEWS
 =====
 **Sep, 2025:** I'm attending [JUNCTION: Japan-US Network for Clean Energy Technologies Involving Oriented Nanotubes 2025](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.
+**June, 2025** I received my Bachelor of Science Degree from [The State University of New York at Buffalo (SUNY at Buffalo)](https://engineering.buffalo.edu/ee.html)!

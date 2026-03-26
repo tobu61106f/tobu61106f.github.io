@@ -9,7 +9,7 @@ tags:
   - Genders-Hatred
 ---
 
-I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years, dreaming years after graduation that you're sitting in the exam hall, unable to solve any problems on the white sheets. I can't claim I'm immune from it. In 2023 and 2024, during my gap years due to mental disorder, sometimes dream I was back in elementary school doing university level of math, the problem that I clearly remembered, something like solving ODEs via Vector Spaces and then I wake up in a cold sweat in next day morning:
+I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years, dreaming years after graduation that you're sitting in the exam hall, unable to solve any problems on the white sheets. I can't claim I'm immune from it. In 2023, during my gap half-year (semester-term) due to mental disorder, sometimes dream I was back in elementary school doing university level of math, the problem that I clearly remembered, something like solving ODEs via Vector Spaces and then I wake up in a cold sweat in next day morning:
 
 > "What the f**k~! How am I able solving homogeneous linear systems in elementary?"
 
@@ -66,9 +66,9 @@ Why bring all this up now? This morning I had coffee, opened X, and came across 
 > "Japan alone shouldn't have to reflect."
 > National average: 28% / Middle and high school students: 38%
 
-For me, its not surprising. Japanese textbooks spend roughly a quarter of their coverage on war crimes committed on the Chinese mainland, another quarter on the annexation of Korea (韓国併合), and the remaining half on the carpet-bombing of the Keihanshin corridor (Kyoto, Osaka, Nara, Kobe, Okayama), the Tokyo metro area (included Chiba, Yokohama, Saitama), and Nagoya (Tsu, Mie, Gifu) by U.S. Air Forces during 1944 and 1945. The result is that the victim side gets amplified while the cause gets buried.
+For me, its not surprising. Japanese textbooks spend roughly a quarter of their coverage on war crimes committed on the Chinese mainland, another quarter on the annexation of Korea (韓国併合), and the remaining half on the carpet-bombing of the Keihanshin corridor (Kyoto, Osaka, Nara, Kobe, Okayama), the Tokyo metro area (included Chiba, Yokohama, Saitama), and Nagoya (Tsu, Mie, Gifu), by Air Forces during 1944 and 1945, I even didn't mentioend Hiroshima and Nagasaki yet. The result is that the victim side gets amplified while the cause gets buried.
 
-There's something that doesn't sit right with me about treating soldiers marched to the front at gunpoint as people who simply experienced the war as a kind of natural disaster. I felt it last summer when I saw a Japanese Communist Party (Socialist Party also) affiliated group at a tram stop near 原爆ドーム前 in Hiroshima running an atomic bomb exhibit. Maybe it goes back to the GHQ — which thought it was fair, eighty years ago, to equate the bells of Nagasaki with the massacre in Manila.
+There's something that doesn't sit right with me about treating soldiers marched to the front at gunpoint as people who simply experienced the war as a kind of natural disaster. I felt it last summer when I saw a Japanese Communist Party (Socialist Party also) affiliated group at a tram stop near Genbaku Dome-Mae *原爆ドーム前* in Hiroshima running an atomic bomb exhibit. Maybe it goes back to the GHQ which thought it was fair, eighty years ago, to equate the bells of Nagasaki with the massacre in Manila.
 
 Memories of the mainland air raids, the kamikaze missions, the Battle of Imphal, these shared memories are broadly shared among Japanese people. But if the events that caused them aren't equally shared, then "we must never repeat war" is just noise.
 

@@ -63,11 +63,11 @@ Why bring all this up? The reason is also a long story. Before heading out this 
 > 
 > National average: 28% / Middle and high school students: 38%
 
-These results don't surprise me. Japanese textbooks devote roughly a quarter of their coverage to war crimes committed on the China-mainland front back to the World War 2, and another quarter to the annexation of the Korean Peninsula (韓国併合，경술국치，국권피탈), remaining half to extensive descriptions of the carpet-bombing of the Keihanshin region, Tokyo Metropolitian (Tokyo-Yokohama-Chiba-Saitama), and Nagoya by U.S. Air forces, which effectively amplifies Japan's "victim face" while obscuring the causes that preceded it. 
+These results don't surprise me. For those observers came to Japanese Society, it's not un-familliar that the Japanese textbooks devote roughly a quarter of their coverage to war crimes committed on the China-mainland front back to the World War 2, and another quarter to the annexation of the Korean Peninsula (韓国併合，경술국치，국권피탈), remaining half to extensive descriptions of the carpet-bombing of the Keihanshin region (Kyoto, Osaka, Nara, Kobe, Okayama), the Great Tokyo Metropolitian Region (Tokyo-Yokohama-Chiba-Saitama), and Nagoya (Tsu, Mie, Gifu, Nagoya) by U.S. Air forces, which effectively amplifies Japan's "victim face" while obscuring the causes that preceded it. 
 
-I feel a strong sense of dissonance at the idea of treating soldiers conscripted at gunpoint as viewing the war's devastation as a kind of natural disaster. I felt the same discomfort last summer when I saw a Japan Communist Party-affiliated group at a train station (Yokogawa, Near to the Downtown of Hiroshima) presenting an exhibit on the atomic bombings. Perhaps the root of it lies in the fact that the GHQ — which, eighty years ago, saw it as fair to equate the bells of Nagasaki with the tragedy of Manila — considered this balance acceptable.
+I feel a strong sense of dissonance at the idea of treating soldiers conscripted at gunpoint as viewing the war's devastation as a kind of natural disaster. I felt the same discomfort last summer when I saw a Japan Communist Party-affiliated group at a train station (Actually it was a Tram Station, 原爆ドーム前, Atomic Bomb Dome, near to the Downtown of Hiroshima) presenting an exhibit on the atomic bombings. Perhaps the root of it lies in the fact that the GHQ — which, eighty years ago, saw it as fair to equate the bells of Nagasaki with the tragedy of Manila — considered this balance acceptable.
 
-Memories of the mainland air raids, the Zero kamikaze missions, and the Battle of Imphal are broadly shared among the Japanese. But if the events that led to them are not equally shared, then phrases like "we must never repeat war" ring completely hollow.
+Memories of the mainland air raids on Big Japanese Cities, the kamikaze missions, and the Battle of Imphal are broadly shared among the Japanese. But if the events that led to them are not equally shared, then phrases like "we must never repeat war" ring completely hollow.
 
 The reason Japanese public historical consciousness has arrived at its current state — setting aside the influence of public education for a moment — is that television media and mainstream cinema have consistently over-emphasized Japan's wartime suffering and the tragic fates of its soldiers.
 
@@ -75,7 +75,7 @@ Yet this brand of "anti-war" trademarker — in which the culpability of the for
 
 And so you end up with the results above.
 
-These two things are indeed related.
+Obviously, these two things are indeed related.
 
 -----
 

@@ -77,6 +77,22 @@ And so you end up with the results above.
 
 Obviously, these two things are indeed related.
 
+What is troubling is not merely the figures themselves, but the generational trends they reveal. Regarding the statement “Japan does not need to reflect on this alone,” the proportion of junior and senior high school students who agreed was significantly higher than the national average. This is not a natural fading of memory, but rather a structural cognitive gap that continues to be reproduced, a gap that ultimately manifests itself in a concrete political form.
+
+In the 27th House of Councillors election held on July 20, 2025, the Party for the People received 7.43 million votes in the proportional representation election, achieving a vote share of 12.88% and surging to become the nation’s third-largest party, trailing only the Liberal Democratic Party and the Democratic Party for the People. The party’s seats in the House of Councillors have reached the threshold required to submit non-budgetary bills, meaning a party that entered the Diet with a single seat in 2022 has achieved mainstream status in less than three years.
+
+With the slogan “Japanese First,” the party rapidly attracted a large number of voters through social media platforms. Analysts believe the party has seized the ‘niche’ previously occupied by established conservative parties like the LDP, appealing to young voters with a “reformist” stance that criticizes elite politics. Its rise is not merely an outlet for xenophobic sentiment but also an expression of long-simmering distrust toward the old political establishment. However, this distrust has been directed toward the simplest targets: outsiders and feminists.
+
+The lack of civic education does not mean people are unaware of “elections,” but rather that they have never been taught where power comes from, to whom it is accountable, and how the boundaries of “our community” are defined. When these concepts remain blank, they are often filled with the most emotionally immediate answers—“us” versus “them,” “Japanese” versus “foreigners.”
+
+On the LDP side, Sanae Takaichi played the “anti-immigration card” in the style of Trump during the party leadership race, chanting the slogan “Japan Is Back.” To win back votes, the mainstream conservatives have no choice but to shift further to the right, responding to the anxieties of the same voters with more sophisticated—but essentially identical—dog-whistle politics.
+
+The Economist describes Sanae Takaichi as a hardline security hawk with nationalist leanings. During the LDP leadership election’s policy speech, she branded herself a “Nara woman” who “worries about the deer in Nara Park,” accusing foreign tourists of destroying what the Japanese hold dear. This was not a statement of a falsifiable fact (Nara Prefecture park officials stated they had never received such reports), but rather an appeal to emotion—a narrative about “pure Japan” being defiled by external forces. This is standard dog-whistle politics: using a specific detail that can be denied to activate a grander, exclusionary imagination.
+
+The audience has never been taught to ask, “What are the boundaries of power?” “Who is qualified to define our community?” or “What can I do about the political process?” If these questions are erased from textbooks as early as elementary school, what remains is a vacuum that can be filled at any moment by emotional mobilization. All the Japan Innovation Party and Sanae Takaichi have done is inject their carefully selected content into that vacuum.
+
+The victim narrative of history education converges here with the systemic absence of civic education: a voter who does not know whom to hold accountable, and a voter who has been told that foreigners are the root of the problem, often make the same political choices. This is no coincidence; it is the logical extension of a design—even if the designers themselves may not have intended it.
+
 -----
 
 I already had a strong sense of dissonance with the people and circumstances around me back in elementary school that was long ago before I moved to United States. Later, I caught the last train out before immigration restrictions tightened, and went to America.

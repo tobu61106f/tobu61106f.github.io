@@ -9,6 +9,9 @@ tags:
   - 社会问题
 ---
 
+*作者: Zhiyun Yu, M.S. Electrical Engineering, The State University of New York at Buffalo (UBuffalo)*
+
+-----
 过去在微博和推特上看到过很多“高考ptsd”的讨论，症状和表现形式包括但不限于：毕业很多年后梦到自己在高考考场做不出题，etc…我不能保证自己没有：我23年24年有的时候梦到自己在小学做高数题，类似于一道“通过Vector Space解ODE”，醒来后也是冒出一身冷汗，
 
 “我艹你🐴的怎么小学就solve 齐次线性系统了”

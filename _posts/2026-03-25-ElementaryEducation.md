@@ -1,86 +1,78 @@
 ---
-title: '“我认为我们小学的教育是有问题的”——其实我对我自己的小学有点PTSD在'
+title: 'The problem is set-in advance and it is more worse than now.'
 date: 2026-03-25
 permalink: /posts/2026/03/blog-post-3/
 tags:
-  - 政治
-  - 心情
-  - 随笔
-  - 社会问题
+  - Politics
+  - Socialist
+  - Soical-Problem
+  - Genders-Hatred
 ---
 
-过去在微博和推特上看到过很多“高考ptsd”的讨论，症状和表现形式包括但不限于：毕业很多年后梦到自己在高考考场做不出题，etc…我不能保证自己没有：我23年24年有的时候梦到自己在小学做高数题，类似于一道“通过Vector Space解ODE”，醒来后也是冒出一身冷汗，
+I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years. Symptoms and manifestations include, but are not limited to: dreaming years after graduation that you're sitting in the exam hall unable to solve any problems, etc. I can't claim I'm immune — in 2023 and 2024 I sometimes dreamed I was in elementary school doing university-level math, something like "solving ODEs via Vector Spaces," and would wake up in a cold sweat:
 
-“我艹你🐴的怎么小学就solve 齐次线性系统了”
+> "What the f**k, how am I solving homogeneous linear systems in elementary school?"
 
-这只是表现之一。而且在和我一样的第一代移民，一点五代移民里我还不是个类。
+That's just one symptom. And among fellow first-generation and 1.5-generation immigrants like me, I'm hardly a rare case.
+I have rarely, in either private or public settings, openly expressed my distaste and aversion toward my elementary school years and the Chinese education system — because I felt that the experiences from those years had a negligible impact on me. But comparing my life experience in America with my experience "surviving" in China, I've come to believe that the Chinese education system, beyond producing obedient and clever "useful idiots," is also mass-producing what the West would call the far-right — and the roots of this can be traced all the way back to elementary school.
+What kind of education did we receive back then? My memories of it are all muddled and chaotic. Why learn English? Why learn math? Why memorize Chinese texts? If you go back to first grade, can any of you actually answer those questions?
 
-我过去鲜少在私人场合或者公共场合，公开地表达自己对自己小学和中国教育体制的反感与嫌恶，因为我觉得对我来说，那几年产生的经验认知对我产生的影响微不足道，但通过自己在美国的生活经验和中国的“生存”经验对比，中国的教育体制除了生产听话聪明的useful idiotics之外，还在量产西方概念上的极右翼，这个根源可以从小学就开始算。
+At least I couldn't.
 
-我们那时候受的教育是什么？记忆里所有东西都是稀里糊涂，乱七八糟的。为什么要学英语？为什么要学数学？为什么要背语文？这些东西回到一年级的话，你们能回答的出来吗？
+Some people might say, "I'm learning these things so I can make good money someday," or "I don't know why I'm asking so many questions." I also had no idea why I started learning English in first grade — and I was terrible at it. I scored a 62 on my first English exam. I genuinely didn't know what I was learning, and I didn't understand why my English teacher screamed at me over it. But none of that stopped me from earning a Bachelor of Science degree in the United States, and I'm currently pursuing my master's degree. Not knowing the answer isn't a crime, I think. But if the answer is "there's no need to ask so many questions — knowing too much will only trouble you" — then what's really being tested here is your obedience. That is a systemic feature of this system, not a bug.
+If that's not enough to make you question things, read on.
 
-至少对我来说是不能。
+What were the girls doing back then? Were they "bullying" boys because they matured earlier? And did the boys receive any education about gender relations during elementary school? No. Did boys or girls receive any education about "love," "death," or "equality" at that stage? Also no. Without an open-minded family environment, both girls and boys could come away from this period resenting the opposite sex — and this is the precondition for misogyny and misandry, for gender-based hatred.
 
-有的人可能会觉得，“我学这些以后会赚大钱”，“我也不知道问这么多干嘛”；
+If that's still not enough, read on.
 
-我也不知道为什么我一年级就开始学英语了，而且学得一塌糊涂，第一次考英语考了个62，我当时就是不知道我在学什么东西，对我来说我也不懂为什么那个时候英语老师把我骂一通；但这并不影响我在美国拿了一个理学学士学位，现在还在pursuing my master's degree. 如果不知道答案，那我想也不是罪，但是如果回答是“没有这么多为什么，知道的太多会烦恼”的话，那这里，只是在测试你的服从性，这是这个制度系统性的设定。
+Going back to elementary school: if you read the history and social studies textbooks, you'll find that compared to the materials used in the United States, Japan, and South Korea, descriptions of the democratic system from the perspective of the individual have been deftly removed. From the outset, there was never any intention to describe grassroots elections starting from the community level. Using Japan as a reference point, the critically important concept of "local self-governance" (地方自治体) has been excised — and in its place, the vocabulary is cleverly packed as "People's Democratic Dictatorship.（人民民主转政）"
 
-如果这点对你来说还不足够去产生疑问，那下一段。
+The concrete effect of this: What is a constitution? What does it do? Can you eat it? Your right to vote, your right to stand for election, your right to representation — where do they go? The role of grassroots representatives starting from the village, town, and neighborhood level is never explained in detail. And institutions analogous to the upper house, lower house, or parliament — they simply never get a seat at the table.
+You might say, "What human rights does an elementary schooler have? Why is any of this necessary to write about?"
 
-那个时候女生在做什么？是不是因为发育比男生早所以在“欺负”男生？那男生这边在小学阶段有受过任何两性关系的教育吗？没有。男生女生有在这个阶段受过“爱”“死亡”“平等”的教育吗？也没有。如果家庭不够open-mind，女生和男生会共同因为这段经历去讨厌对方的性别，这是仇女/仇男，性别仇恨的先决条件。
+But this is precisely the level at which the following get defined: what love is, what our community is, where power comes from and to whom it is accountable — corresponding respectively to: human and civil rights; the right to vote, to be elected, and to belong to a community; and the right to oversight.
 
-如果这点对你来说还不足够去产生疑问，那下一段。
+Sure, you can call me a "democracy crusader" — I've never tried to hide it, and you're free to stigmatize me however you like. But without these foundational concepts, what you get is the assembly-line production of "Little Pinks" (小粉红) from ten years ago — their initial indifference to the right to life, to property, and to political power, and their association with hostility toward women, is no coincidence. China's Little Pinks and radical feminists — particularly so-called "female separatists" — are perfectly aligned in one key respect: their complete disregard for how power flows and circulates. Little Pinks fantasize about allying with Russia and the "Axis of Resistance" to bring down American imperial sovereignty, believing this will elevate them to first-class citizens of the world. Female separatists fantasize about physically segregating men and establishing a dictatorship over them in order to get what they want. Neither has anything to do with the women's suffrage movements championed in the United States and United Kingdom.
 
-回到小学，阅读小学的历史和社会学课本你会发现，对比美国和日本以及韩国的教材，从小我出发对民主系统的描述被精妙地移除了，一开始就没有打算描写从community出发的基层选举，用日本的条件去类比，就是“地方自治体”这一极为重要的概念被移除了，而在这里词汇被巧妙地包装成“人民民主专政”；
+And the boys? They're no better. Their counter-move has been to meme-ify Dong Zhimin — that farmer from the flooded plains — to disgust their peers, with phrases like "should've been chained up" and "should've been taken out long ago." But both camps are equally blind to how power actually flows. Most self-identify as "STEM guys," "second-tier university students," "earning ¥3,500 a month," or "3D people" (i.e., real-world losers). The gender hatred you see today is largely the product of these two factions tearing each other apart.
 
-具体表现则是：宪法是什么，宪法的作用是什么，能吃吗？自己的选举权，被选举权，代表权呢？从“洞”“町”“Town”“村”开始的基层代表的作用也没有详尽描述，以及类似于上议院、下议院、国会机构的描述，在这里就没有“上桌吃饭”的资格了。
+My point of view is this: the gender hatred of my generation was already germinating back in elementary school.
 
-你也许会说“小学阶段有什么人权？有什么写这些的必要？”
+Why bring all this up? The reason is also a long story. Before heading out this morning, I had my coffee and scrolled through X for a bit, and came across a statistical survey about Japanese society. The results looked like this:
 
-这一层面描述了“什么是爱”，“我们这个集体是什么”，“权力从哪里来，该向谁负责”，依次对应：人权/公民权，选举权/被选举权与共同体，监督权。
+"It was a war of Japanese aggression."
 
-好，你可以说我是民主斗士，我从来没有试图掩盖这一点，对我的污名化怎么样都行，但缺失了这些条件，你就看到了10年前量产的晋江“小粉红”，初次对生命权和财产权以及政治权力的漠视并且和女生沾边绝非偶然，中国的小粉红和女权特别是所谓全女主义在权力认知，对于权力流动无视这一点上是完全一致的。小粉红幻想联合俄罗斯抵抗之弧打倒美帝国主义主权实体自己就能高人一等当全世界的一等公民，全女主义者幻想物理隔绝男性对男性进行专政就能获得它们想要的东西，这一开始和美国以及英国提倡的women's suffrage就已经无关了。
+National average: 35% / Middle and high school students: 30%
 
-而男生呢？男生也好不到哪里去，他们的反击招数就是通过将董志民这一黄泛区老农民meme化去恶心同龄人，“欠栓了”“早该图图了”等，但两者对于权利流动无视这一点也是全等的，多数是自称“理工男”、“二本”、“月薪3500”、“三d人士”，你现在看到的性别仇恨多是出自于两拨人内斗。
+"It was unavoidable for a resource-poor country like Japan."
 
-我的观点就是，我这一代人的性别仇恨，其实早在小学期间就有萌芽了。
+National average: 13% / Middle and high school students: 22%
 
-为什么要聊这个呢，原因也很长，今天出门之前喝完咖啡刷了会儿X，看到了一个关于日本社会的统计结果，统计的具体结果长这样：
+"Japan alone shouldn't have to reflect on its actions."
 
->「日本の侵略戦争だった」
-> 
-> 全国35% / 中高生30%
->
->「資源の少ない日本にとってやむを得ないものだった」
-> 
-> 全国13% / 中高生22%
->
->「日本だけが反省する必要はない」
-> 
-> 全国28% / 中高生38%
+National average: 28% / Middle and high school students: 38%
 
-这种结果其实并不惊讶。日本的教科书花了1/4的篇幅在谈论中国战场的战争罪行，1/4的篇幅在谈论朝鲜半岛的合并，剩下1/2则是大篇幅描述美军针对京阪神、关东、名古屋的地毯式轰炸。这相当于让后者的“受害者面”放大，而忽视了前者的因。
+These results don't surprise me. Japanese textbooks devote roughly a quarter of their coverage to war crimes committed on the China-mainland front back to the World War 2, and another quarter to the annexation of the Korean Peninsula, remaining half to extensive descriptions of the carpet-bombing of the Keihanshin region, Kanto, and Nagoya by American forces, which effectively amplifies Japan's "victim face" while obscuring the causes that preceded it.
 
-国民被枪指着上前线将战灾视为某种天灾我对此有种强烈的违和感，我去年夏天在车站看到日共系团体进行原子弹相关展示时也有如此感觉，根源或许在，80年前，将长崎的钟声与马尼拉的悲剧合本等同的GHQ却觉得是公平的
+I feel a strong sense of dissonance at the idea of treating soldiers conscripted at gunpoint as viewing the war's devastation as a kind of natural disaster. I felt the same discomfort last summer when I saw a Japan Communist Party-affiliated group at a train station (Near to Yokogawa, Hiroshima) presenting an exhibit on the atomic bombings. Perhaps the root of it lies in the fact that the GHQ — which, eighty years ago, saw it as fair to equate the bells of Nagasaki with the tragedy of Manila — considered this balance acceptable.
 
-本土空袭、零式特攻和英帕尔作战的记忆大体上是日本人共享的，如果导致它的经过没有共享的话，「不会再重复战争」之类的话那就是空洞的。
+Memories of the mainland air raids, the Zero kamikaze missions, and the Battle of Imphal are broadly shared among the Japanese. But if the events that led to them are not equally shared, then phrases like "we must never repeat war" ring completely hollow.
 
-日本公众的历史认知之所以呈现出目前的这种状态，且暂不提公共教育的影响，电视媒体和主流电影往往过度强调日本在战时所遭受的苦难及其士兵的悲惨境遇，
+The reason Japanese public historical consciousness has arrived at its current state — setting aside the influence of public education for a moment — is that television media and mainstream cinema have consistently over-emphasized Japan's wartime suffering and the tragic fates of its soldiers.
 
-然而，这种“反战”题材的媒体——由于其中前日本军队的罪责已被有效地“洗白”——能够令所有人（无论其属于右翼、左翼，还是无政治立场的群体）感到某种慰藉，这倒也是情理之中的事。
+Yet this brand of "anti-war" trademarker — in which the culpability of the former Japanese military has been effectively laundered — manages to offer a kind of comfort to everyone: right-wing, left-wing, and apolitical alike. That much is entirely predictable.
 
-最后你就看到了这个结果。
+And so you end up with the results above.
 
------
+I already had a strong sense of dissonance with the people and circumstances around me back in elementary school that was long ago before I moved to United States. Later, I caught the last train out before immigration restrictions tightened, and went to America.
 
-我小学就对身边的人和现状有种强烈的违和感，后来乘上了移民限制前的末班车去了美国。
+At the most fundamental level, I have no interest in politics whatsoever. But toward systems that push people to the margins — that corner them — I feel a quiet, persistent anger.
 
-从根本上讲我对从政其实毫无兴趣；对于那些将“人”边缘化，逼向绝路的体制，我怀有一种隐约的愤怒。
+At American universities, most students, regardless of gender, have moved further left before they get admission letter, which doesn't surprise me. At American universities, something that could meaningfully be called gender hatred barely exists.
 
-在美国大学，大多数学生不分男女都变得更加左了，我也不意外，在美国大学就近乎不存在什么称得上是性别仇恨的东西。
+My elementary school PTSD memories don't end there. I had a terrible homeroom teacher, a terrible math teacher — my English teacher was actually decent enough toward me, which is probably why my grades held up through middle school before I left for America.
 
-我对小学ptsd的记忆还不止于此，我其实有一个糟糕的班主任，糟糕的数学老师，英语老师对我其实还算不错所以这样的成绩一直保持到了初一去美国之前。
+Over the past 3,650 days or so, I've often wondered what my adolescence would have looked like had I stayed in China. Honestly, it's hard to even imagine. But looking at the current state of things, I suspect I would have ended up at a second-tier university, become a pathetic incel, and be delivering food right now. I won't deny the other possibility either — once the seed of doubt is planted, when it stops growing is no longer entirely up to you.
 
-其实过去的3650个日子里都在想，我要是留在中国会经历什么样的青春，这个过程事实上也很难想象；但就现状来看，我恐怕会去上二本，然后变成一个垃圾incel，现在在送外卖。我也不否认另一个可能性，怀疑的种子一旦埋下，那什么时候停下就不由得自己说了算了。
-
-没有科学的人文是愚昧的，但没有人文的科学是危险的。如果系统不及时纠偏，那么等到我们这代人掌权的时候，中国和中国人的日子绝对不会好过，我毫不怀疑一个我们正在经历的是一个“魏玛共和国”，“大正民主”的时代，将来也许会有一场针对内部的血腥风雨。
+Science without the humanities is ignorance. But the humanities without science are dangerous. If the system doesn't course-correct in time, then when our generation comes to power, things will not go well for China or for Chinese people. I have no doubt that what we are living through is a "Weimar Republic" moment, a "Taisho Democracy" era — and that what comes next may well be a bloody storm of violence turned inward.

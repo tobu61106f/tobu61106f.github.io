@@ -17,6 +17,8 @@ That's just one symptom. And among fellow first-generation and 1.5-generation im
 
 In past many years, I have rarely, in either private or public, openly expressed my distaste and aversion toward my elementary school years and the Chinese education system — because I felt that the experiences from those years had a negligible impact on me. But comparing my life experience in America with my experience "surviving" in China, I've come to believe that the Chinese education system, beyond producing obedient and clever "useful idiots," is also mass-producing what the West would call the far-right — and the roots of this can be traced all the way back to elementary school.
 
+-----
+
 What kind of education did we receive back then? Let me to shonking you: My memories of it are all muddled and chaotic. Why learn English in Elementary School? Why we learn math arithematic? Why memorize so many Chinese texts from textbooks? If you go back to first grade, can any of you actually answer those questions?
 
 At least I couldn't.
@@ -33,16 +35,19 @@ If that's still not enough, read on.
 
 Going back to elementary school: if you read the history and social studies textbooks in China, you'll find that compared to the materials used in the United States, Japan, and South Korea, descriptions of the democratic system from the perspective of the individual have been deftly removed. From the outset, there was never any intention to describe grassroots elections starting from the community level. Using Japan as a reference point, the critically important concept of "local self-governance" (地方自治体) has been excised — and in its place, the vocabulary is cleverly packed as "People's Democratic Dictatorship.（人民民主转政）"
 
-The concrete effect of this: What is a constitution? What does it do? Can you eat it? Your right to vote, your right to stand for election, your right to representation — where do they go? The role of grassroots representatives starting from the village, town, and neighborhood level is never explained in detail. And institutions analogous to the upper house, lower house, or parliament — they simply never get a seat at the table.
+The concrete effect of this: What is a constitution? What does it do? Can you eat it? Your right to vote, your right to stand for election, your right to representation — where do they go? These questions never bringing to the class, and The role of grassroots representatives starting from the village, town, and neighborhood level is never explained in detail. And institutions analogous to the upper house, lower house, or parliament — they simply never get a seat at the table.
+
 You might say, "What human rights does an elementary schooler have? Why is any of this necessary to write about?"
 
-But this is precisely the level at which the following get defined: what love is, what our community is, where power comes from and to whom it is accountable — corresponding respectively to: human and civil rights; the right to vote, to be elected, and to belong to a community; and the right to oversight.
+But my dear, this is precisely the level at which the following get defined: What the 'love' is, What our community is, Where power comes from and to whom it is accountable — corresponding respectively to: The universal Human Right and Civil Right; and the Right to Vote, to be Elected, and how it is to belong to a community; and the right to oversight.
 
-Sure, you can call me a "democracy crusader"（民逗） — I've never tried to hide it, and you're free to stigmatize me however you like. But without these foundational concepts, what you get is the assembly-line production of "Little Pinks" (Chinese internet-nationalist, Women Drivened Mainly, 小粉红) from ten years ago — their initial indifference to the right to life, to property, and to political power, and their association with hostility toward women, is no coincidence. China's Little Pinks and radical feminists — particularly so-called "female separatists" — are perfectly aligned in one key respect: their complete disregard for how power flows and circulates. Little Pinks fantasize about allying with Russia and the "Axis of Resistance" to bring down American imperial sovereignty, believing this will elevate them to first-class citizens of the world. Female separatists fantasize about physically segregating men and establishing a dictatorship over them in order to get what they want. Neither has anything to do with the women's suffrage movements championed in the United States and United Kingdom.
+Sure, you can call me a "democracy crusader" in a nasty way（民逗） — In fact, since I get-up into my High School, I've never tried to hide it, and you're free to stigmatize me however you like. But without these foundational concepts, what you get is the assembly-line production of "Little Pinks" (Chinese internet-nationalist, Women Drivened Mainly, 小粉红) from ten years ago — their initial indifference to the right to life, to property, and to political power, and their association with hostility toward women, is no coincidence. China's Little Pinks and radical feminists — particularly so-called "female separatists" — are perfectly aligned in one key respect: their complete disregard for how power flows and circulates. Little Pinks fantasize about allying with Russia and the "Axis of Resistance" to bring down American imperial sovereignty, believing this will elevate them to first-class citizens of the world. Female separatists fantasize about physically segregating men and establishing a dictatorship over them in order to get what they want. Neither has anything to do with the women's suffrage movements championed in the United States and United Kingdom.
 
-And the boys? They're no better. When you get out the femcel rabbit hole, you came to a incel rabbit hole. Their counter-move has been to meme-ify Dong Zhimin — that sexist crime farmer from the flooded plains — to disgust their same-age peers, with phrases like "should've been chained up"（织女真欠栓） and "should've been taken out long ago."（早该管管了）, But both camps are equally blind to how power actually flows. Most self-identify as "STEM guys," "second-tier university students," "earning ¥3,500 a month," or "3D people" (i.e., real-world losers). The gender hatred you see today is largely the product of these two factions tearing each other apart.
+And the boys? They're no better. When you get out the femcel rabbit hole, you came to a incel rabbit hole. Their counter-move has been to meme-ify Dong Zhimin — that sexist crime farmer from the flooded plains — to disgust their same-age peers, with phrases like "should've been chained up"（织女真欠栓） or "should've been taken out long ago."（织女早该管管了）, But both camps are equally blind to how power actually flows. Most self-identify as "STEM guys," "second-tier university students," "earning ¥3,500 a month," or "3D people" (i.e., real-world losers). The gender hatred you see today is largely the product of these two factions tearing each other apart.
 
 My point of view is this: the gender hatred of my generation was already germinating back in elementary school.
+
+-----
 
 Why bring all this up? The reason is also a long story. Before heading out this morning, I had my coffee and scrolled through X (Formerly twitter) for a bit, and came across a statistical survey about Japanese society. The results looked like this:
 
@@ -69,6 +74,10 @@ The reason Japanese public historical consciousness has arrived at its current s
 Yet this brand of "anti-war" trademarker — in which the culpability of the former Japanese military has been effectively laundered — manages to offer a kind of comfort to everyone: right-wing, left-wing, and apolitical alike. That much is entirely predictable.
 
 And so you end up with the results above.
+
+These two things are indeed related.
+
+-----
 
 I already had a strong sense of dissonance with the people and circumstances around me back in elementary school that was long ago before I moved to United States. Later, I caught the last train out before immigration restrictions tightened, and went to America.
 

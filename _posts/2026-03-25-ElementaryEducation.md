@@ -1,5 +1,5 @@
 ---
-title: '2026.03.25 其实我对我的小学教育有PTSD'
+title: '其实我对我的小学教育有PTSD'
 date: 2026-03-25
 permalink: /posts/2026/03/blog-post-3/
 tags:

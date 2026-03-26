@@ -95,6 +95,27 @@ The victim narrative of history education converges here with the systemic absen
 
 -----
 
+If the hollowness of the education system is a chronic illness, then what I have observed in my native-language community is the manifestation of this illness’s final symptoms.
+
+Among my generation, a clear consensus no longer exists. I cannot find a sufficiently representative example from others to illustrate this point, so I can only speak from my own experience.
+
+I remember that long ago, the structure of information dissemination in Simplified Chinese once allowed the entire society to maintain a consensus—I’ll tentatively call it the “News Broadcast Consensus.” This name doesn’t imply that everyone agreed with the content, but rather that at the very least, everyone knew what everyone else was talking about. Anyone who experienced Weibo during that era knows just how broad the scope of discourse was back then—even if you didn’t agree with anyone’s views, you knew one thing: you knew I knew, and I knew you knew. It was a crude public space, bearing the marks of control, but at least it was public.
+
+I was still in high school back then. I was too young and naturally didn’t care for that state of affairs; I always felt it was a form of oppression. I imagined another possibility, modeled after the Japanese news sphere: in an environment without this enforced consensus, people would read legitimate news reports on their own, form their own judgments, and express their views in a coherent manner, creating a rational and open atmosphere for discussion.
+
+My fantasy came true—just in a way I never could have anticipated.
+
+Consensus was shattered, but what filled the void wasn’t rational discussion; instead, it was a complete fragmentation of information. A particularly striking example is the “reconstruction of gender issues”—or rather, their radicalization. Now, when I open a Simplified Chinese webpage, I no longer understand what they’re saying or what they’re trying to convey. It’s not because of a language barrier, but because those words themselves no longer aim to convey meaning; they have become a system of identification: using a set of gibberish incomprehensible to outsiders to draw boundaries, distinguishing “our own” from “the enemy,” and then brewing hatred and mutual attacks within those boundaries.
+
+This is, in fact, the ultimate manifestation of a lack of civic education. When a person has never been taught “to whom power is accountable,” “ what a community is, or “what I can do”—when history is reduced to a victim narrative, gender to a battlefield, and politics to a game of friend-or-foe identification—language loses its function of communication, leaving only mobilization and exclusion. Everyone lies in bed scrolling through a few short videos, convinced they’ve grasped the entire truth of the world, needing no communication, no argumentation, only enough enemies to validate their own righteousness.
+
+The drama unfolding in Japanese politics between the Komeito Party and Sanae Takaichi, and what is happening within the simplified Chinese information echo chambers, are essentially variations of the same mechanism operating in different contexts: a person who has not been taught how to think about power will ultimately have others decide for them whom to hate.
+
+This is not the moral failure of a single generation, but the inevitable outcome of a system operating over the long term.
+
+What makes me pessimistic is not the current state of affairs, but its inertia. When absurdity has become a social dialect, and when fostering mutual hatred has become a form of entertainment, the cost of correcting this course will be far greater than the cost of sowing the seed in the first place. We are paying a societal price for a few pages that were quietly erased from certain textbooks decades ago.
+
+-----
 I already had a strong sense of dissonance with the people and circumstances around me back in elementary school that was long ago before I moved to United States. Later, I caught the last train out before immigration restrictions tightened, and went to America.
 
 At the most fundamental level, I have no interest in politics whatsoever. But toward systems that push people to the margins — that corner them — I feel a quiet, persistent anger.

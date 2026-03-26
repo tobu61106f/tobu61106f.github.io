@@ -3,10 +3,7 @@ title: '2026.03.16 其实我对我的小学教育有PTSD'
 date: 2026-03-16
 permalink: /posts/2026/03/blog-post-3/
 tags:
-  - TypeScript
-  - Next.Js
-  - CloudFlare
-  - Vercel
+  - 政治
   - 心情
   - 随笔
 ---

@@ -114,12 +114,12 @@ What makes me pessimistic isn't the current state — it's the inertia. When the
 -----
 I already felt wrong about everything around me back in elementary school years before I left. Later, I caught the last train out before Trump's first term, and being able to move to United States, on this point on myself I felt I'm lucky.
 
-At the most fundamental level, I have no interest in politics. But toward systems that push people to the margins — that corner them and leave them no way out — I have a quiet, persistent anger that doesn't really go away.
+At the most fundamental level, I have no interest in running a politics campagin, but toward systems that push people to the margins, corner-ized them and leave them no way out, from this, I have a quiet, persistent anger that doesn't really go away. 
 
-At American universities, most students drift further left, regardless of gender. That doesn't surprise me. At American universities, what you'd actually call gender hatred barely exists as a phenomenon.
+At American universities, most students drift further left before they got admitted, not just how Donald J. Trump craziness he was, and is on going, and I believe it is regardless of gender, what you'd actually call gender hatred barely exists as a phenomenon.
 
-My elementary school PTSD doesn't end there. I had a terrible homeroom teacher. A terrible math teacher. My English teacher was decent enough, which is probably why I held on through middle school before leaving.
+My elementary school PTSD doesn't end there. Remember that I had a terrible homeroom teacher. A terrible math teacher. BTW, my elementary English teacher was decent enough after my first exam, which is probably why I held on through elementary school before my leaving after 1st year of my middle school.
 
 In the 3,650 days or so since then, I've often tried to imagine what my adolescence would have looked like if I'd stayed. Honestly, it's hard to picture but looking at how things have gone, I suspect I'd have ended up at a second-tier university, become a miserable incel, and be delivering food on an e-bike right now. I won't rule out the other possibility: Maybe I'd have gotten into a 985 or 211 school and still ended up delivering food with eBike but the outcome might have been different in one way. Once the seed of doubt gets planted, when it stops growing is no longer entirely up to you.
 
-Science without the humanities is ignorance. The humanities without science are dangerous. If the system doesn't correct itself in time, then when my generation comes to power, things will not go well for China or for Chinese people. I have no doubt that what we're living through is a Weimar moment, a Taisho Democracy, and that what follows may be a very bloody storm, turned inward, like a Roller Coaster.
+Science without the humanities is ignorance, but the humanities without science are dangerous. If the system doesn't correct itself in time, then when my generation comes to power, things will not go well for China or for Chinese people. I have no doubt that what we're living through is a Weimar moment, a Taisho Democracy, and that what follows may be a very bloody storm, turned inward, like a Roller Coaster, from the top to the bottom, and that instanenous inerita is enough to murder an adult. 

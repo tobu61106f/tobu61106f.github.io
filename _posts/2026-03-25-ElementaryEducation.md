@@ -9,13 +9,13 @@ tags:
   - Genders-Hatred
 ---
 
-I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years, dreaming years after graduation that you're sitting in the exam hall, unable to solve any problems on the white sheets. I can't claim I'm immune from it. In 2023, during my gap half-year (semester-term) due to mental disorder, sometimes dream I was back in elementary school doing university level of math, the problem that I clearly remembered, something like solving ODEs via Vector Spaces and then I wake up in a cold sweat in next day morning:
+I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years, dreaming years after graduation that you're sitting in the exam hall, unable to solve any problems on the white sheets. I can't claim I'm immune from it. In 2023, during my gap half-year (semester-term) due to mental disorder, sometimes I even dreamed about I was back in elementary school doing university level of math, the problem that I clearly remembered, something like solving ODEs via Vector Spaces and then I wake up in a cold sweat in next day morning:
 
 > "What the f**k~! How am I able solving homogeneous linear systems in elementary?"
 
 That's just one symptom. And among first-generation and 1.5-generation immigrants like me, I'm hardly a rare case.
 
-For a long time, I rarely talked about this openly, about my distaste for those years, for the Chinese education system, and I disfavor it so much. I told myself the damage was negligible during my China Education, But after years of living in America and comparing it to what I'd call "surviving" in China, I've come to think the system does two things: it produces a mount of obedient, clever useful idiots, and it producing what the Westerner would recognize as the alternative right wing, and the trace can be founded in elementary school.
+For a long time, I rarely talked about this openly, about my distaste for those years, for the Chinese education system, and I disfavor it so much. Let me introduce my background a little bit. My elementary school homeroom teacher was exceptionally skilled at micromanaging students, while my first middle school homeroom teacher—who was nearing 50 at the time till relied on old-fashioned methods, constantly yelling at us. When I typing theses word in U.S., I start to doubt my first middle school homeroom teacher she had a state of anger issue. I told myself the damage was negligible during my China Education, But after years of living in America and comparing it to what I'd call "surviving" in China, I've come to think the system does two things: it produces a mount of obedient, clever useful idiots, and it producing what the Westerner would recognize as the alternative right wing, and the trace can be founded in elementary school.
 
 What kind of education did we actually get? Honestly, my memories of it are a mess. Why were we learning English? Why math? Why memorize all that classical Chinese from textbooks? Go back to first grade, were you able to answer any of those questions?
 I couldn't.

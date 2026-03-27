@@ -74,9 +74,9 @@ Memories of the mainland air raids, the kamikaze missions, the Battle of Imphal,
 
 This is what makes the generational trend in those numbers troubling — not the figures alone, but the direction. On "Japan alone shouldn't have to reflect," younger respondents scored consistently higher than the national average. This isn't memory naturally fading. It's a structural gap in understanding, being reproduced on schedule, and eventually taking a concrete political shape.
 
-In the July 20, 2025 House of Councillors election, Sanseito received 7.43 million proportional votes  12.88% and became the third-largest party in the country, behind only the LDP and the DPP. A party that entered the Diet with a single seat in 2022 now has enough seats to submit non-budgetary legislation. Under three years.
+In the July 20, 2025 House of Councillors election, Sansei-to received 7.43 million proportional votes of 12.88% and became the populist party in the country. A party that entered the Diet with a single seat in 2022 now has 15 seats to submit non-budgetary legislation. These happened Under three years.
 
-They ran on "Japanese First," built their base through social media, and positioned themselves as reformists against elite politics — which pulled younger voters who were already done with the LDP establishment. Their rise isn't purely about xenophobia. It's also distrust of the old order, looking for somewhere to land. It just landed on the simplest available target: outsiders. And Twi-feminists. 
+They ran on "Japanese First," built their base through social media, ironically, on TikTok, and positioned themselves as reformists against elite politics — which pulled younger voters who were already done with the LDP establishment. Their rise isn't purely about xenophobia. It's also distrust of the old order, looking for somewhere to land. It just landed on the simplest available target: outsiders. And Twi-feminists. 
 
 The civic education gap isn't that people don't know what elections are. It's that they were never taught where power comes from, who it answers to, or how the boundaries of "our community" get drawn. Leave those questions blank and they fill themselves, usually with whatever's most emotionally immediate. Us and them. Japanese and foreign.
 

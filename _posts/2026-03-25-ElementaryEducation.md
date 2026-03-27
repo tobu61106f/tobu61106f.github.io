@@ -9,6 +9,9 @@ tags:
   - Genders-Hatred
 ---
 
+> *Abstract: 曾经有一位在人生路途上算是"长者"的网友这么分享对我这一代00后人的看法：称我们00后比90后相比不自恨，对自己自信的多，对中国更加自信，我深知这只不过是扯淡。*
+
+-----
 I've seen a lot of discussion about "Gaokao PTSD" on Weibo and Twitter over the years, dreaming years after graduation that you're sitting in the exam hall, unable to solve any problems on the white sheets. I can't claim I'm immune from it. In 2023, during my gap half-year (semester-term) due to mental disorder, sometimes I even dreamed about I was back in elementary school doing university level of math, the problem that I clearly remembered, something like solving ODEs via Vector Spaces and then I wake up in a cold sweat in next day morning:
 
 > "What the f**k~! How am I able solving homogeneous linear systems in elementary?"

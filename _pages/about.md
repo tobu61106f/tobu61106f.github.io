@@ -27,6 +27,10 @@ Topics I'm currently working on:
 - ASIC/FPGA System Design
 - Statistical Learning Method
 
+Awards
+=====
+**Apr, 2026:** I received the Graduate School Tuition Scholarship covered my Fall 2026 semester studies.
+
 NEWS
 =====
 **Sep, 2025:** I'm attending [JUNCTION: Japan-US Network for Clean Energy Technologies Involving Oriented Nanotubes 2025](https://perebeinoslab.eng.buffalo.edu/workshop2025) at Buffalo, NY.

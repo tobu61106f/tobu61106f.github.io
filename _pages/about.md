@@ -22,10 +22,10 @@ Research Interest
 I'm currently working on my Reinforcement Learning Research.
 
 Topics I'm currently interest on: 
-- Astrophysics
+- Mathematical Science
 - Reinforcement Learning
+- Statistical Learning
 - Robotics
-- Statstical Learning
 
 Awards
 =====

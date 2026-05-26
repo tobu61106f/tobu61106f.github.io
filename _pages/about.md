@@ -9,16 +9,17 @@ redirect_from:
 
 Whoami
 =====
-I'm a 2nd year Master (of Science) Student at [the **S**tate **U**niversity of **N**ew **Y**ork at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html), and I'm currently collaborate and advise by [*Prof. Mastronadrde*](https://engineering.buffalo.edu/ee/faculty/faculty_directory/nicholas-mastronarde.publications.html) and Post-doc fellow [*Dr. Ziyang Lu*](https://www.researchgate.net/profile/Ziyang-Lu) at WIRED Lab. 
+I'm a 2nd year Master (of Science) Student at [the **S**tate **U**niversity of **N**ew **Y**ork at Buffalo, School of Engineering and Applied Sciences, Department of Electrical Engineering](https://engineering.buffalo.edu/ee.html), and I'm currently collaborate and advise by [*Prof. Mastronadrde*](https://engineering.buffalo.edu/ee/faculty/faculty_directory/nicholas-mastronarde.publications.html) and Post-doc fellow [*Dr. Ziyang Lu*](https://www.researchgate.net/profile/Ziyang-Lu) at WIRED Lab respectively.
 
 
 **I'm taking any anonymous message feedback about anything!** if you interested please be [filled up](https://forms.office.com/r/nxv9CWUS6p), you can use English, Chinese or Japanese.
 
 Research Interest
 =====
-I'm currently working on my Reinforcement Learning Research.
+I'm working Reinforcement Learning optimally on Physics-Informed layer Neural Network. 
 
 Topics that I'm currently interested on: 
+- Deep Learning
 - Mathematical Science
 - Reinforcement Learning
 - Statistical Learning

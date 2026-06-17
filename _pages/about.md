@@ -16,7 +16,7 @@ I'm a second-year Master (of Science) Student in [the the Department of Electric
 
 Research Interest
 =====
-I'm working Reinforcement Learning optimally on Physics-Informed layer Neural Network. Also I have non-professional experience designing PCBs layout and working with ESP32 arch. 
+I'm working Deep Reinforcement Learning optimally on Physics-Informed layer Neural Network. Also I have non-professional experience designing PCBs layout and working with ESP32 arch. 
 
 Topics that I'm currently interested on: 
 - Deep Learning

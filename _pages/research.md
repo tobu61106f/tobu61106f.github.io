@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 pub_years: [2026]
-talk_years: [2021, 2019, 2017]
+talk_years: [2026]
 nav: true
 nav_order: 1
 interests: >

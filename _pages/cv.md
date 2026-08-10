@@ -11,12 +11,3 @@ toc:
   sidebar: left
 ---
 
-Education
-======
-* M.S. in Electrical Engineering, University at Buffalo, 2027 (Expected) 
-* B.S. in Electrical Engineering, University at Buffalo, 2025
-
-Research
-=====
-* Research Assistant, University at Buffalo, May 2026 - Present.
-

@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: center
   image: natsume.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
+  title: MS Student @ UB ECE
   more_info: >
-    <p>zhiyun<span style="color: #808080; margin: 0 0.25em;">[dot]</span>yu<span style="color: #808080; margin: 0 0.25em;">[at]</span>buffalo<span style="color: #808080; margin: 0 0.25em;">[dot]</span>edu</p>
+    <p>zhiyunyu<span style="color: #808080; margin: 0 0.25em;">[at]</span>buffalo<span style="color: #808080; margin: 0 0.25em;">[dot]</span>edu</p>
     <p>204 COMSENS Lab, Davis Hall</p>
     <p>Buffalo, NY</p>
 

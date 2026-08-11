@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>Reinforcement Learning over wireless communication</a>. 
 profile:
   align: center
   image: natsume.jpg

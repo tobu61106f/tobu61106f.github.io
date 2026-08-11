@@ -12,7 +12,7 @@ selected_papers: true
 selected_talks: false
 ---
 
-<div class="publications">
+<!-- <div class="publications">
 
 {%- if page.interests %}
   <p>{{ page.interests | markdownify }}</p>
@@ -29,4 +29,4 @@ selected_talks: false
   {% bibliography -f talks -q "@item.year == '2026'" %}
 {%- endif %}
 
-</div>
+</div> -->

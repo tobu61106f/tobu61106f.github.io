@@ -31,14 +31,15 @@ cv:
         start_date: 2020
         end_date: 2025
         score: ""
-        courses: "Theory of Quantum Computing"
+        courses: ""
         highlights:
           - Advised by Professors <a href="https://engineering.buffalo.edu/ee/faculty/faculty_directory/filippo-malandra.html">Filippo Malandra</a> and <a href="https://ubwp.buffalo.edu/rffl/people/">Ryan St. Pierre</a>
 
       - institution: Univeristy at Buffalo
         location: Buffalo, NY
-        area: ECE
-        studyType: Master
+        url: https://buffalo.edu/
+        area: Electrical and Computer Engineering
+        studyType: M.S. Electrical Engineering
         start_date: 2025
         end_date: 2027
         highlights:

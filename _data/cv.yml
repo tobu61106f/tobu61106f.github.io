@@ -1,10 +1,10 @@
 cv:
   name: Zhiyun Yu
-  label: M.S. Electrical Engineering
-  email: zhiyunyu@buffalo.edu
+  #label: M.S. Electrical Engineering
+  #email: zhiyunyu@buffalo.edu
   location: Buffalo, NY
   image: ""
-  summary: China-borned ECE Student
+  summary: China-borned ECE Student. 
 
   # social_networks:
   #   - network: X

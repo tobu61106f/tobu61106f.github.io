@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Reinforcement Learning over wireless communication</a>. 
+subtitle: <a href='#'>Reinforcement Learning</a>. 
 profile:
   align: center
   image: natsume.jpg

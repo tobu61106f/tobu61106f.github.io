@@ -28,8 +28,9 @@ cv:
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering
         studyType: B.S. Electrical Engineering
-        start_date: 2020
-        end_date: 2025
+        #start_date: 2020
+        #end_date: 2025
+        date: 2025
         score: ""
         courses: ""
         highlights:
@@ -40,8 +41,9 @@ cv:
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering
         studyType: M.S. Electrical Engineering
-        start_date: 2025
-        end_date: 2027
+        #start_date: 2025
+        #end_date: 2027
+        date: 2027
         highlights:
           - M.S. thesis Advised by <a href="https://www.eng.buffalo.edu/~nmastron/">Professor Mastronade </a>
 

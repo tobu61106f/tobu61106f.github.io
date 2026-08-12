@@ -6,13 +6,13 @@ cv:
   image: ""
   summary: China-borned ECE Student
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  # social_networks:
+  #   - network: X
+  #     username: AlbertEinstein
+  #   - network: GitHub
+  #     username: example
+  #   - network: LinkedIn
+  #     username: example
 
   address:
     street: University at Buffalo
@@ -28,7 +28,7 @@ cv:
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering
         studyType: B.S. Electrical Engineering
-        start_date: 2020
+        start_date: 
         end_date: 2025
         score: ""
         courses: ""
@@ -40,7 +40,7 @@ cv:
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering
         studyType: M.S. Electrical Engineering
-        start_date: 2025
+        start_date: 
         end_date: 2027
         highlights:
           - M.S. thesis Advised by <a href="https://www.eng.buffalo.edu/~nmastron/">Professor Mastronade </a>

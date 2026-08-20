@@ -4,7 +4,7 @@ cv:
   #email: zhiyunyu@buffalo.edu
   location: Buffalo, NY
   image: ""
-  summary: China-borned ECE Student. 
+  summary: Optimization, Pattern Recognition, Signal Processing.
 
   # social_networks:
   #   - network: X
@@ -23,7 +23,7 @@ cv:
 
   sections:
     Education:
-      - institution: University at Buffalo
+      - institution: SUNY University at Buffalo
         location: Buffalo, NY
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering
@@ -36,7 +36,7 @@ cv:
         highlights:
           - Advised by Professors <a href="https://engineering.buffalo.edu/ee/faculty/faculty_directory/filippo-malandra.html">Filippo Malandra</a> and <a href="https://ubwp.buffalo.edu/rffl/people/">Ryan St. Pierre</a>
 
-      - institution: Univeristy at Buffalo
+      - institution: SUNY Univeristy at Buffalo
         location: Buffalo, NY
         url: https://buffalo.edu/
         area: Electrical and Computer Engineering

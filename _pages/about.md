@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year Master (of Science) Student in [Department of Electrical and Computer Engineering at the State **U**niversity of New York at **B**uffalo. ](https://engineering.buffalo.edu/ee.html). I am currently collaborating and advised by [*Prof. Mastronadrde*](https://engineering.buffalo.edu/ee/faculty/faculty_directory/nicholas-mastronarde.publications.html).
+I'm a second-year Master (of Science) Student in [Department of Electrical and Computer Engineering at the State **U**niversity of New York at **B**uffalo](https://engineering.buffalo.edu/ee.html). I am currently collaborating and advised by [*Prof. Mastronadrde*](https://engineering.buffalo.edu/ee/faculty/faculty_directory/nicholas-mastronarde.publications.html).
 
 My research interests lie at the intersection of reinforcement learning, learning, UAV, and robotics.
 

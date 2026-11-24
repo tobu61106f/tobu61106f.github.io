@@ -10,7 +10,7 @@ profile:
   title: MS Student @ UB ECE
   more_info: >
     <p>zhiyunyu<span style="color: #808080; margin: 0 0.25em;">[at]</span>buffalo<span style="color: #808080; margin: 0 0.25em;">[dot]</span>edu</p>
-    <p>204 COMSENS Lab, Davis Hall</p>
+    <p>204 COMSENS Lab, Davis Hall(EECS Building)</p>
     <p>Buffalo, NY</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div class="post">
+  <!-- 新增：顶部居中容器 -->
+  <div class="hero-header text-center mb-4">
+    <!-- 1. 头像部分放在最顶上 -->
+    {% if page.profile %}
+      <div class="profile-top mx-auto mb-3">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class alt=page.profile.image %}
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <!-- 2. 大标题和副标题紧跟在头像下方 -->
+    <header class="post-header">
+      <h1 class="post-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </header>
+
+    <!-- 可选：如果希望头像下方的地址/简介也居中显示在标题下面 -->
+    {% if page.profile.more_info %}
+      <div class="more-info text-muted">
+        {{ page.profile.more_info }}
+      </div>
+    {% endif %}
+  </div>
+
+  <!-- 3. 个人介绍正文（不再环绕头像） -->
+  <article>
+    <div class="clearfix">{{ content }}</div>
+    
+    <!-- 原有的 News、Selected papers、Social icons 等模块保持不变 -->
+    ...
+  </article>
+</div>

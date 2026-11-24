@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Reinforcement Learning</a>. 
+subtitle: <a href='#'>Reinforcement Learning</a>
 profile:
   align: center
   image: canada.JPG
   image_circular: true # crops the image to make it circular
-  title: MS Student @ UB ECE
+  title: MS Student at UB ECE
   more_info: >
     <p>zhiyunyu<span style="color: #808080; margin: 0 0.25em;">[at]</span>buffalo<span style="color: #808080; margin: 0 0.25em;">[dot]</span>edu</p>
     <p>204 COMSENS Lab, Davis Hall (EECS Building) </p>

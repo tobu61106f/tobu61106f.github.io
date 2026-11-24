@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Reinforcement Learning</a>. 
 profile:
   align: center
-  image: canada.JPG
+  image: canada.jpg
   image_circular: true # crops the image to make it circular
   title: MS Student @ UB ECE
   more_info: >
